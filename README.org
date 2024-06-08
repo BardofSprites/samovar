@@ -1,3 +1,11 @@
 #+TITLE: Samovar
 
+* About
 This is a hobby project. As of right now, there is only a repl with simple commands as functions.
+
+* Install
+
+#+begin_src shell
+  git clone https://github.com/BardofSprites/samovar.git
+  cabal build && cabal install
+#+end_src
