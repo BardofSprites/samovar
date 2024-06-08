@@ -1,0 +1,3 @@
+#+TITLE: Samovar
+
+This is a hobby project. As of right now, there is only a repl with simple commands as functions.
